@@ -4,11 +4,11 @@ This repository contains the full solution for the comprehensive Final Exam of t
 
 This project showcases the culmination of all core skills: complex algorithmic problem-solving, advanced data preprocessing, and the **implementation of Machine Learning models** under strict, exam-simulated conditions.
 
-## ⭐ Key Achievement: Final Grade 92
+## Key Achievement: Final Grade 92
 
 The successful completion of this rigorous exam with a final grade of **92** validates high-level proficiency in all core Python and **Machine Learning** concepts taught in the program.
 
-## 🎯 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 * **Holistic Problem Solving:** Integrating knowledge from all course modules (Algorithms, NumPy, Pandas, Matplotlib, **ML**) into one cohesive, efficient solution.
 * **Complex Data Preparation:** Implementing multi-step data cleaning, **Normalization** (Z-Score), **Label Encoding**, and feature engineering on the provided salary dataset.
