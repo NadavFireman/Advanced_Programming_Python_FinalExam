@@ -18,8 +18,8 @@ The successful completion of this rigorous exam with a final grade of **92** val
 ## Repository Content
 
 * **`Advanced_Programming_FinalExam.ipynb`**: The full solution notebook.
-* **`salary_data.csv`**: The dataset used in the final examination.
-* **`docs/Final_Exam_Instructions.pdf`**: Original Final Exam instructions.
+* **`salary.csv`**: The dataset used in the final examination.
+* **`Final_Exam_Instructions.pdf`**: Original Final Exam instructions.
 
 ***
 *Course: Advanced Programming (Shenkar College, IE&M)*
